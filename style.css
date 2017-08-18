@@ -1,0 +1,8 @@
+p{
+    font-weight: bolder;
+}
+.bordecampo{
+    border: 2px solid #333;
+    border-radius: 1em;
+    padding: 1em;
+}
